@@ -22,7 +22,6 @@ var rooms = []; //Array of Rooms
 var roomNames = []; //Array of Room Names
 var roomPasswords = []; //Array of Room Passwords
 var roomInviteCodes = []; //parallel array to hold room invites
-
 var publicRooms = []; //Array of Public Room Names for display purposes
 
 
@@ -519,5 +518,5 @@ function generateInviteCode() {
 
 function getInviteLinkFromRoomName(rn) {
   var index = roomNames.indexOf(rn);
-  return "https://lightchat.ml/invite/" + roomInviteCodes[index];
+  return "https://tattle-99v1.onrender.com/invite/" + roomInviteCodes[index];
 }
