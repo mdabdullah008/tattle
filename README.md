@@ -5,8 +5,9 @@
 
 ## Lightweight real-time chat app made with node.js and socket.io
 ### Public and Private chat rooms that you can make and join
-### Invite links!
-#### In the format https://lightchat.ml/invite/{invite-code}
+### Now an app for phones!
+#### Available for Android on APKPure
+<a  title="Download Roblox latest version xapk From APKPure"  rel="nofollow"  download="Roblox_latest_version"  src="https://d.apkpure.com/b/APK/com.roblox.client?version=latest"><img src="https://static.apkpure.com/www/static/imgs/logo_new@2x.png"  alt="APKPure Logo" /></a>
 ### Simple UI
 ![](https://github.com/Walker30263/lightchat/blob/main/assets/ui-screenshots/ui_v1-1.png?raw=true)
 ![](https://github.com/Walker30263/lightchat/blob/main/assets/ui-screenshots/chat-ui_v1-1.png?raw=true)
