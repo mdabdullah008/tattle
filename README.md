@@ -7,7 +7,7 @@
 ### Public and Private chat rooms that you can make and join
 ### Now an app for phones!
 #### Available for Android on APKPure
-[Download app](https://d.apkpure.com/b/APK/co.median.android.pqkqxl?version=latest)
+[![Download from APKPure](https://static.apkpure.com/www/static/imgs/logo_new@2x.png)](https://d.apkpure.com/b/APK/co.median.android.pqkqxl?version=latest)
 
 ### Simple UI
 ![](https://github.com/Walker30263/lightchat/blob/main/assets/ui-screenshots/ui_v1-1.png?raw=true)
