@@ -52,6 +52,6 @@
           </tr>
         </table>
 
-## Creator of Lightchat @Walker30263
+## Creator of Lightchat [@Walker30263](https://github.com/Walker30263)
 
-## Forked and modified by @mdabdullah008
+## Forked and modified by [@mdabdullah008](https://github.com/mdabdullah008)
