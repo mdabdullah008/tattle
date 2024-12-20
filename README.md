@@ -7,7 +7,8 @@
 ### Public and Private chat rooms that you can make and join
 ### Now an app for phones!
 #### Available for Android on APKPure
-<a  title="Download Roblox latest version xapk From APKPure"  rel="nofollow"  download="Roblox_latest_version"  src="https://d.apkpure.com/b/APK/com.roblox.client?version=latest"><img src="https://static.apkpure.com/www/static/imgs/logo_new@2x.png"  alt="APKPure Logo" /></a>
+[![Download app](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download app")](https://d.apkpure.com/b/APK/co.median.android.pqkqxl?version=latest)
+
 ### Simple UI
 ![](https://github.com/Walker30263/lightchat/blob/main/assets/ui-screenshots/ui_v1-1.png?raw=true)
 ![](https://github.com/Walker30263/lightchat/blob/main/assets/ui-screenshots/chat-ui_v1-1.png?raw=true)
